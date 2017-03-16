@@ -1,0 +1,204 @@
+{
+  "rows" : [
+    {
+      "Starting date" : "1881",
+      "Ending_date" : "1891",
+      "city" : "Málaga ", 
+{
+      "latitude" : " 36.72016",
+      "longitude" : " -4.42034",
+}
+      
+    },
+    {
+      "Starting date" : "1891",
+      "Ending_date" : "1895",
+      "city" : "A Coruña ", 
+{
+      "latitude" : " 43.37135",
+      "longitude" : " -8.396",
+}
+      
+    },
+    {
+      "Starting date" : "1895",
+      "Ending_date" : "1897",
+      "city" : "Barcelona ", 
+{
+      "latitude" : " 41.38879",
+      "longitude" : " 2.15899",
+}
+      
+    },
+    {
+      "Starting date" : "1897",
+      "Ending_date" : "1898",
+      "city" : "Madrid ", 
+{
+      "latitude" : " 40.4165",
+      "longitude" : " -3.70256",
+}
+      
+    },
+    {
+      "Starting date" : "1898",
+      "Ending_date" : "1898",
+      "city" : "Barcelona ", 
+{
+      "latitude" : " 41.38879",
+      "longitude" : " 2.15899",
+}
+      
+    },
+    {
+      "Starting date" : "1898",
+      "Ending_date" : "1899",
+      "city" : "Paris ", 
+{
+      "latitude" : " 48.85341",
+      "longitude" : " 2.3488",
+}
+      
+    },
+    {
+      "Starting date" : "1899",
+      "Ending_date" : "1900",
+      "city" : "Barcelona ", 
+{
+      "latitude" : " 41.38879",
+      "longitude" : " 2.15899",
+}
+      
+    },
+    {
+      "Starting date" : "1900",
+      "Ending_date" : "1900",
+      "city" : "Paris ", 
+{
+      "latitude" : " 48.85341",
+      "longitude" : " 2.3488",
+}
+      
+    },
+    {
+      "Starting date" : "1900",
+      "Ending_date" : "1901",
+      "city" : "Barcelona ", 
+{
+      "latitude" : " 41.38879",
+      "longitude" : " 2.15899",
+}
+      
+    },
+    {
+      "Starting date" : "1901",
+      "Ending_date" : "1903",
+      "city" : "Paris ", 
+{
+      "latitude" : " 48.85341",
+      "longitude" : " 2.3488",
+}
+      
+    },
+    {
+      "Starting date" : "1903",
+      "Ending_date" : "1904",
+      "city" : "Barcelona ", 
+{
+      "latitude" : " 41.38879",
+      "longitude" : " 2.15899",
+}
+      
+    },
+    {
+      "Starting date" : "1904",
+      "Ending_date" : "1908",
+      "city" : "Paris ", 
+{
+      "latitude" : " 48.85341",
+      "longitude" : " 2.3488",
+}
+      
+    },
+    {
+      "Starting date" : "1908",
+      "Ending_date" : "1909",
+      "city" : "Paris ", 
+{
+      "latitude" : " 48.85341",
+      "longitude" : " 2.3488",
+}
+      
+    },
+    {
+      "Starting date" : "1909",
+      "Ending_date" : "1909",
+      "city" : "Barcelona ", 
+{
+      "latitude" : " 41.38879",
+      "longitude" : " 2.15899",
+}
+      
+    },
+    {
+      "Starting date" : "1909",
+      "Ending_date" : "1911",
+      "city" : "Paris ", 
+{
+      "latitude" : " 48.85341",
+      "longitude" : " 2.3488",
+}
+      
+    },
+    {
+      "Starting date" : "1911",
+      "Ending_date" : "1912",
+      "city" : "Ceret ", 
+{
+      "latitude" : " 42.48533",
+      "longitude" : " 2.74804",
+}
+      
+    },
+    {
+      "Starting date" : "1912",
+      "Ending_date" : "1913",
+      "city" : "Sorgues ", 
+{
+      "latitude" : " 44.01023",
+      "longitude" : " 4.87381",
+}
+      
+    },
+    {
+      "Starting date" : "1913",
+      "Ending_date" : "1916",
+      "city" : "Ceret ", 
+{
+      "latitude" : " 42.48533",
+      "longitude" : " 2.74804",
+}
+      
+    },
+    {
+      "Starting date" : "1916",
+      "Ending_date" : "1917",
+      "city" : "Rome ", 
+{
+      "latitude" : " 41.89193",
+      "longitude" : " 12.51133",
+}
+      
+    },
+    {
+      "Starting date" : "1917",
+      "Ending_date" : "1919",
+      "city" : "Paris ", 
+{
+      "latitude" : " 48.85341",
+      "longitude" : " 2.3488",
+}
+      
+    }
+  ]
+}
